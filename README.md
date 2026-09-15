@@ -3,7 +3,7 @@ Proyecto realizado para la asignatura de Gestión de Información
 4º año Ingeniería Informática (Universidad de Burgos)
 
 
-El proyecto usa como base el la idea y realización siguiente:
+El proyecto usa como base la idea y realización siguiente:
 
 https://github.com/josemagalan/extractInfoWithLLM
 

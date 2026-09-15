@@ -16,3 +16,5 @@ Lenguaje usado: Python
 
 
 *Los ejemplos de facturas son los mismos usados por el proyecto original
+
+**Se ha adjuntado el fichero resultante como ejemplo de salida con los pdf's proporcionados
